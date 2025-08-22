@@ -4,7 +4,8 @@
 I love learning new frameworks, building projects, and constantly improving my skills.
 
 ## 🙋‍♂️ About Me 
-- 🎓 4th Year **BSIT Student** at *Laguna State Polytechnic University* | Aspiring **Full-Stack Developer** with a strong interest in **Web Development**  
+- 🎓 4th Year **BSIT Student** at *Laguna State Polytechnic University*
+- ✨ Aspiring **Full-Stack Developer** with a strong interest in **Web Development**  
 - 💡 I enjoy solving problems and turning ideas into reality through code
 - 🤝 Open to collaborating on exciting projects and open-source contributions
 - 🎯 Goal: Become a versatile developer capable of building scalable apps and impactful solutions    
