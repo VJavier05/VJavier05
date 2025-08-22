@@ -1,11 +1,11 @@
-👋 Hi, I'm Javier, Vincent Angelo S.
+# 👋 Hi, I'm Javier, Vincent Angelo S.
 
-🎓 About Me
+# 🎓 About Me
 - 4th Year BSIT Student in Laguna State Polytechnic University
 - Currently learning React and Node.jsO
 - Goal: To become a Full-Stack Developer
 
-🚀 Skills
+# 🚀 Skills
 - Languages: C#, Python, Javascipts, Java, Dart, SQL
 - Framework/Tools: Flask, Flutter, Figma , Git, Github,
 -  Other: Database Management, Web Development Basics, UI/UX 
