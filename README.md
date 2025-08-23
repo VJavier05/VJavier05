@@ -55,4 +55,11 @@ I love learning new frameworks, building projects, and constantly improving my s
 
 ## 📬 Connect With Me  
 - 🌐 Portfolio: *Coming Soon*  
-- 📧 Email: angelojavierjj@gmail.com  
+- 📧 Email: angelojavierjj@gmail.com
+
+---
+
+<p align="center">
+  <b>✨ Always learning, always building ✨</b>
+</p>
+
