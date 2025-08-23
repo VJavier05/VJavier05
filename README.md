@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/VJavier05/VJavier05/refs/heads/main/assets/animation.svg" width="100%" alt="Animated banner" />
 
-🚀 Passionate about **software development**, **web technologies**, and **mobile development**.  
+🧑‍💻 I'm Passionate about **software development**, **web technologies**, and **mobile development**.  
 I love learning new frameworks, building projects, and constantly improving my skills.
 
 ## 🙋‍♂️ About Me 
