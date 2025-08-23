@@ -11,7 +11,7 @@ I love learning new frameworks, building projects, and constantly improving my s
 
 ---
 
-## 🛠️ Skills <img align="right" width="440px" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 🛠️ Skills <img align="right" width="430px" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 #### 💻 Languages & Syntax:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp; 
