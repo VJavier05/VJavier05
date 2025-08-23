@@ -34,7 +34,7 @@ I love learning new frameworks, building projects, and constantly improving my s
 
 ---
 
-## 🚀 Projects
+## 📂 Projects
 
 - **Barangay Record Management System** (C# / WinForms / MySQL)  
   A desktop application designed to manage resident records, Files, and Barangay Officials.
