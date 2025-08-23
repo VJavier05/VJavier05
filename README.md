@@ -1,64 +1,58 @@
-# 👋 Hello, I'm Javier Vincent Angelo!
+<img src="https://raw.githubusercontent.com/VJavier05/VJavier05/refs/heads/main/assets/animation.svg" width="100%" alt="Animated banner" />
 
 🚀 Passionate about **software development**, **web technologies**, and **mobile development**.  
 I love learning new frameworks, building projects, and constantly improving my skills.
 
 ## 🙋‍♂️ About Me 
 - 🎓 4th Year **BSIT Student** at *Laguna State Polytechnic University*
-- ✨ Aspiring **Full-Stack Developer** with a strong interest in **Web Development**  
 - 💡 I enjoy solving problems and turning ideas into reality through code
 - 🤝 Open to collaborating on exciting projects and open-source contributions
 - 🎯 Goal: Become a versatile developer capable of building scalable apps and impactful solutions    
 
+---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Skills
 
-### 🔹 Programming Languages  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+#### 💻 Languages & Syntax:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp; ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 
-### 🔹 Frameworks & Libraries  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) *(learning)*  
+#### 🎨 Frontend Development:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔹 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) *(learning)*  
+#### 🚀 Backend & Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp; ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 
-### 🔹 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+
+#### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp; ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### 🛠️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### 📚 Currently Learning  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
 - **Barangay Record Management System** (C# / WinForms)  
-  A desktop app for managing student records, grades, and attendance.
+  A desktop application designed to manage resident records, Files, and Barangay Officials.
 
-- **File Management System** (C# / WinForms / MySQL)  
-  A web-based platform for job listings, applications, and employer dashboards.
+- **Agriculture Management System** (C# / WinForms / MySQL)  
+  A system for managing agricultural records, farm tools, and transactions to support local farmers.  
 
 - **School Permit System** (PHP / MySQL)  
-  A web-based platform for job listings, applications, and employer dashboards.
+  A web-based platform for handling school permits, requests, and approvals online.  
 
 - **Ecommerce Website** (HTML / CSS / JavaScript / Python(FLASK) / SQLITE)  
-  A lightweight internal tool for managing employee leave requests and approvals.
+  An online shop where users can browse products, add items to their cart, and place orders easily also includes both admin and seller. 
 
 - **Victoria HRIS** (HTML / CSS / JavaScript / Python(FLASK) / MYSQL)  
-  My personal site hosted via GitHub Pages — you're looking at it!
+  A Human Resource Information System for employee management, leave tracking, performance evaluation and other HR process.  
 
 ---
 
 ## 📬 Connect With Me  
 - 🌐 Portfolio: *Coming Soon*  
-- 📧 Email: your.email@example.com  
+- 📧 Email: angelojavierjj@gmail.com  
