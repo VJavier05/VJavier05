@@ -36,7 +36,7 @@ I love learning new frameworks, building projects, and constantly improving my s
 
 ## 🚀 Projects
 
-- **Barangay Record Management System** (C# / WinForms)  
+- **Barangay Record Management System** (C# / WinForms / MySQL)  
   A desktop application designed to manage resident records, Files, and Barangay Officials.
 
 - **Agriculture Management System** (C# / WinForms / MySQL)  
@@ -45,10 +45,10 @@ I love learning new frameworks, building projects, and constantly improving my s
 - **School Permit System** (PHP / MySQL)  
   A web-based platform for handling school permits, requests, and approvals online.  
 
-- **Ecommerce Website** (HTML / CSS / JavaScript / Python(FLASK) / SQLITE)  
+- **Ecommerce Website** (HTML / CSS / JavaScript / Python (FLASK) / SQLITE)  
   An online shop where users can browse products, add items to their cart, and place orders easily also includes both admin and seller. 
 
-- **Victoria HRIS** (HTML / CSS / JavaScript / Python(FLASK) / MYSQL)  
+- **Victoria HRIS** (HTML / CSS / JavaScript / Python (FLASK) / MYSQL)  
   A Human Resource Information System for employee management, leave tracking, performance evaluation and other HR process.  
 
 ---
