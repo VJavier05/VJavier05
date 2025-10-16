@@ -69,7 +69,7 @@ I love learning new frameworks, building projects, and constantly improving my s
 ## 📬 Connect With Me  
 - 🌐 Portfolio: *Coming Soon*  
 - 📧 Email: angelojavierjj@gmail.com
-
+- 💼 LinkedIn: [Mylinkedin](https://www.linkedin.com/in/vincent-angelo-javier-839241382)
 ---
 
 <p align="center">
