@@ -73,7 +73,7 @@ I love learning new frameworks, building projects, and constantly improving my s
 ---
 
 ## 📬 Connect With Me  
-- 🌐 Portfolio: *Coming Soon*  
+- 🌐 Portfolio: [vjavier-portfolio.vercel.app](https://vjavier-portfolio.vercel.app)
 - 📧 Email: angelojavierjj@gmail.com
 - 💼 LinkedIn: [Mylinkedin](https://www.linkedin.com/in/vincent-angelo-javier-839241382)
 ---
