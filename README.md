@@ -65,7 +65,7 @@ I love learning new frameworks, building projects, and constantly improving my s
   A web-based platform for handling school permits, requests, and approvals online.  
 
 - **Ecommerce Website** (HTML / CSS / JavaScript / Python (FLASK) / Dart (FLUTTER) / SQLITE)  
-  An online shop where users can browse products, add items to their cart, and place orders easily also includes both admin and seller. 
+  An online shop where users can browse products, add items to their cart, and place orders easily. It also includes admin, seller, and rider roles, and has a mobile application built with Flutter.
 
 - **Victoria HRIS** (HTML / CSS / JavaScript / Python (FLASK) / MYSQL)  
   A Human Resource Information System for employee management, leave tracking, performance evaluation and other HR process.  
